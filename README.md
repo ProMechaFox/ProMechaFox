@@ -1,4 +1,3 @@
-- 👋 Yo, I’m @ProMechaFox!
-- 👀 I’m interested in Electrical engineering, programming, languages
-- 🌱 I’m currently learning C++, Electronics, Arduino
-- 📫 How to reach me: promechafox@gmail.com
+- ⚡ Yo, I’m ProMechaFox ⚡
+- 🔌 I like programming & Electrical engineering 🔌
+- 📖 I’m currently learning C & Embedded systems 📖

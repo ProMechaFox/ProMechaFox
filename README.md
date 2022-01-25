@@ -1,3 +1,3 @@
 - ⚡ Yo, I’m ProMechaFox ⚡
 - 🔌 I like programming & Electrical engineering 🔌
-- 📖 I’m currently learning C & Embedded systems 📖
+- 📖 I’m currently learning Embedded systems (And some assembly, c, python) 📖
